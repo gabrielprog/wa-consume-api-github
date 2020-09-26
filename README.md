@@ -1,6 +1,6 @@
 # 🚀 Sobre o desafio
 ---
-Criei uma aplicação do zero utilizando Webpack, Babel, Webpack Dev Server e ReactJS.
+Criei uma aplicação do zero utilizando Webpack, Babel, Axios, Webpack Dev Server e ReactJS.
 
 Nessa aplicação eu desenvolvi um consumidor de api aonde aplicação traz alguns dados de usúario do github
 
