@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    outline: none;
+}
+
+a {
+    text-decoration: none;
+    color: #2bff00;
+    width: 100%;
+}
+
+li {
+    list-style: none;
+}
+
+html, body, #root {
+    min-height: 100%;
+}
+
+body {
+    background: #002df5;
+    font-family: Arial, Helvetica, sans-serif;
+    -webkit-font-smoothing: antialiased !important;
+}
+
+button {
+    cursor: pointer;
+}

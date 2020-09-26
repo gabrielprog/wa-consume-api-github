@@ -1,0 +1,41 @@
+
+.box__userView {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    border: 1px solid #000000;
+    margin-top: 10px;
+    padding: 50px;
+}
+
+.box__view button {
+    border-radius: 12px;
+    margin: 2%;
+    width: 80%;
+    background: #000;
+    color: #fff;
+    border: none;
+    border-radius: 12px;
+    margin-top: 2%;
+    padding: 5px;
+}
+
+.box__userView img {
+    width: 36px;
+    height: 36px;
+    border: 1px solid #999;
+    border-radius: 50%;
+}
+
+.box__userView button {
+    background: #000;
+    color: #fff;
+    width: 100px;
+    height: 25px;
+    border: none;
+    border-radius: 12px;
+    margin-top: 1%;
+    padding: 5px;
+}
